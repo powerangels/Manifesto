@@ -36,3 +36,54 @@ We are language and technology independent - but the focus of this unity is data
 PowerangeL.
 
 Tags: <i>Software Development,Cloud Computing,Big Data,Functional Programming,High Scalability Computing,Machine Learning,Data Analytics,Predictive Analytics,NLP (Neuro-Linguistic Programming),Computer programming,Data Mining,Quantum,Data Science,Big Data Analytics,Statistics and data analysis</i>
+
+##Membership
+
+Feel like a Powerangel? 
+
+To participate in conversations with other Powerangels, discuss various topics you’re interested in, join nonstandard angel meetups and technical activities, we need you to tell us about yourself a little bit:
+
+
+1.	What is your passion?
+2.	What are you hacking on and thinking about during your spare time?
+
+3.	What you believe is the future?
+	
+4.	What topics and fields are you fond of?
+
+5.	Are these topics the part of your day to day job or are you enjoying them in your spare time?
+	
+6.	How many hours/days a week do you spend to learning something new in the area of your interest, just in average?
+
+7.	What are some of the questions that you’d like to discuss with other Powerangels?
+	
+8.	Would you like to participate in virtual or in-person discussions, or both?
+
+9.	Want to share your twitter, github, blog with us?
+
+10.	Send what you’ve come up with to [welcome.powerangels.gmail.com](mailto:welcome.powerangels.gmail.com)
+
+<br>
+It’s not necessary to answer all of these questions, not necessary to answer them all in exact order they are listed. You may just write us about yourself in a way you prefer. We just need to understand who you are and if you are ready to join the club. We will come back to you shortly after you send the letter to us!
+
+
+And hey, notice that the focus of all these questions is programming and science. You may add the phrase “in terms of programming” to the end of each question. When you write answers, don’t think about stuff you’re not a fan of, write about things that make your eyes shine like a fire, write about things that you can’t share with people around because you don’t see someone who would really understand that your ideas and thoughts are amazing, or if you can’t find the right path to your problem resolution even after doing a big research on the topic, looking through books, articles, white papers, searching the people who might help both, around and on the internet, but no results. Powerangels is the right place with people who are inspired, who are fond of what they’re doing and curious about future perspective topics. Thinking on complicated questions together makes magic. 
+
+
+##We are young
+
+
+Powerangels is going to be the mightiest community in the world, concentrating the most curious and smart people who are in love with what they are doing. We are still new, but we are growing. We need to share our existence with the world to make people like us aware of us. Wake up, angels. Spread the word! 
+
+
+##Contact info
+
+Our email:			[welcome.powerangels.gmail.com](mailto:welcome.powerangels.com)
+
+Our hashtags:		 	[#powerangels](https://twitter.com/search?f=tweets&q=powerangels) [#wakeuptechpower](https://twitter.com/search?f=tweets&q=wakeuptechpower)
+
+Our twitter account:		[twitter.com/@powerangels_o_O](https://twitter.com/@powerangels_o_O)
+
+Our github organization:	[github.com/powerangels](https://github.com/powerangels)
+
+
