@@ -74,10 +74,10 @@ It’s not necessary to answer all of these questions, not necessary to answer t
 And hey, notice that the focus of all these questions is programming and science. You may add the phrase “in terms of programming” to the end of each question. When you write answers, don’t think about stuff you’re not a fan of, write about things that make your eyes shine like a fire, write about things that you can’t share with people around because you don’t see someone who would really understand that your ideas and thoughts are amazing, or if you can’t find the right path to your problem resolution even after doing a big research on the topic, looking through books, articles, white papers, searching the people who might help both, around and on the internet, but no results. Powerangels is the right place with people who are inspired, who are fond of what they’re doing and curious about future perspective topics. Thinking on complicated questions together makes magic. 
 
 
-##We are young
+##Help us grow
 
 
-Powerangels is going to be the mightiest community in the world, concentrating the most curious and smart people who are in love with what they are doing. We are still new, but we are growing. We need to share our existence with the world to make people like us aware of us. Wake up, angels. Spread the word! 
+Powerangels is going to be the mightiest community in the world, concentrating the most curious and smart people who are in love with what they are doing. We are still new, but we are growing. You can help us grow by either joining us or sharing! We need to share our existence with the world to make people aware of us. Wake up, angels. Spread the word! 
 
 
 ##Contact info
