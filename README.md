@@ -20,6 +20,7 @@ Things that unite us are:
   * We fall and break our mind every day
   * We work hard, learn and research topics we are interested in more than others do
   * We think about the future from the practical point of view
+  * We are always searching for answers
   * We want to make our lives better
   * We want to change the world for the better
 
