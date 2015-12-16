@@ -6,6 +6,8 @@ When you're writing code or doing some day to day programming, do you feel that 
 
 If the answer is yes - welcome to the Powerangels. 
 
+![powerangels](https://github.com/powerangels/Manifesto/blob/master/img/logo.png?raw=true)
+
 We don't like to build CRUD applications, we don't have fun creating objects and moving them to and from the DB. We're not enjoying making tons of simple web pages to display the server side work every day. We are not fans of fixing endless bugs that keep us away from getting closer to implementing challenging features and thinking on new mind breaking algorithms. These kinds of boring tasks make wrong impression about what you can actually do. Programming isn't just a tool to solve these simple kid-level problems. 
 
 We are autodidacts. We never stop learning. This is our air - something that keeps us alive, that lives in the core of our soul and drives us every day, every second and every moment. We are focused and concentrated on our research. 
