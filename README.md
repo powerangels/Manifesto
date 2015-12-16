@@ -37,6 +37,10 @@ PowerangeL.
 
 Tags: <i>Software Development,Cloud Computing,Big Data,Functional Programming,High Scalability Computing,Machine Learning,Data Analytics,Predictive Analytics,NLP (Neuro-Linguistic Programming),Computer programming,Data Mining,Quantum,Data Science,Big Data Analytics,Statistics and data analysis</i>
 
+##Why are we different from other communities?
+
+We are all unique. Each of us has their own story of fights, ups and downs. Each of us is very good in something, in some specific field or topic that varies from person to person. Each of us is learning, studying and researching something. Always. When reaching some particular level, being smart and curious, learning becomes harder and harder. When learning we always have questions. While studying the foundations questions are mostly stupid and information can be found in books and articles, questions can be answered on Stack Overflow or Quora. But when you are already good in the topic and continue growing, questions become more and more sophisticated and complex. Know the feeling of asking the question on Stack Overflow, having zero answers, having comments like “your question is too broad and is going to be not easy”, sometimes being marked as “to philosophical”?... It’s when you are pushing the boundaries. Not all things are answered and described in books, sometimes we have to figure the answers out on our own. What unites us is not the technology, not the language, but being good at something, always searching for something, always having questions in our minds, and the lack of people like us, to share and discuss our technical worries and questions. You are not alone, believe.
+
 ##Membership
 
 Feel like a Powerangel? 
