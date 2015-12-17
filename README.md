@@ -1,6 +1,6 @@
-# Manifesto
+#Powerangels: break the mind, build the future
 
-##Powerangels: break the mind, build the future
+## Manifesto
 
 When you're writing code or doing some day to day programming, do you feel that you want to stop thinking about trivial things and direct your activities to make the direct impact on the world's technology future? 
 
