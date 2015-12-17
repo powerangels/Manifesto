@@ -44,11 +44,43 @@ Tags: <i>Software Development,Cloud Computing,Big Data,Functional Programming,Hi
 
 We are all unique. Each of us has their own story of fights, ups and downs. Each of us is very good in something, in some specific field or topic that varies from person to person. Each of us is learning, studying and researching something. Always. When reaching some particular level, being smart and curious, learning becomes harder and harder. When learning we always have questions. While studying the foundations questions are mostly stupid and information can be found in books and articles, questions can be answered on Stack Overflow or Quora. But when you are already good in the topic and continue growing, questions become more and more sophisticated and complex. Know the feeling of asking the question on Stack Overflow, having zero answers, having comments like “your question is too broad and is going to be not easy”, sometimes being marked as “to philosophical”?... It’s when you are pushing the boundaries. Not all things are answered and described in books, sometimes we have to figure the answers out on our own. What unites us is not the technology, not the language, but being good at something, always searching for something, always having questions in our minds, and the lack of people like us, to share and discuss our technical worries and questions. You are not alone, believe.
 
+##What are we doing here?
+
+
+We are talking to each other, asking questions, sharing thoughts, searching for the answers to move us forward. Okay, well, it may seem a bit unmanageable, but it’s not. We follow the simple process that allows us to keep things in order and focus on the result and benefit each of the Powerangels gets after the conversation that can be virtual or in-person conversation, as well as hybrid. 
+First of all, all Powerangels have the internal angel network portal. 
+
+
+<b>Step #1. Join the Powerangel Portal and form your Curiosity Profile</b>
+
+Before any conversation we should make sure that it makes sense. When each of the Powerangels join the portal, they write or select questions that they are interested in. They may pick their own questions as well as someone else’s. All questions that Poweralgels write are persisted and accessible for others, they are explorable and searchable. It allows to form the Curiosity Profile of Powerangels. When a Powerangel finds the question they’d like to discuss, to talk about, or to ask – it can be marked, which adds the questions to the Curiosity List of this particular Powerangel.
+
+<b>Step #2. Discover kindred Powerangels’ spirits closest to yourself</b>
+
+The Curiosity Profile is the connection unit that can unite two or more Powerangels together, based on questions they all are interested in finding answers to, or ready to discuss and share their knowledge and thoughts. The Curiosity Profile has a public appearance, which means it is accessible to other Powerangels. That implies, a Powerangel can discover other Powerangels that are closest to their technology curiosities. Each member has the list of 10 closest people based on the Curiosity Profile.
+
+<b>Step #3. Ponder the way to set up the conversation with people you want</b>
+
+After one of Powerangels discovers those people, he or she has an opportunity to invite them to the conversation that will be dedicated to questions shared accross their Curiosity Profiles. The Powerangels who receive the invitation may accept it without any changes, as well as propose new place/time or reject it. As soon as at least 1 of the other Powerangels agreed to participate – the event is counted as planned and appears on the shared list of planned conversations, which is visible to all Powerangels. 
+
+<b>Step #4. Choose the place for the conversation</b>
+
+It may be any place, depending on what everyone’s preferences are. People who are near each other may go to their favorite coffee shops, people from different parts of the world may prefer to set up the Slack channel or audio/video call for the discussion.
+
+<b>Step #5. Get notified about the planned conversation you might be interested in</b>
+
+As the main ground for the event are sophisticated questions that Powerangels always have, all people who are not the part of the event yet, but who have one or more questions from that event in their Curiosity Profile, they will get the notification about the event and the opportunity to join.
+
+<b>Step #6. Conclusions. A conversation starts with questions, let’s end it with answers</b>
+
+Every Powerangel is interested in getting the real value from all conversations and discussions on topics they’re fond of. Conversations are just the way to bring a Powerangel closer to their dreams, by providing answers or at least tips. A conversation is based on the predefined questions, so it’s logical to summarize the finished discussion by doing a quick write up of discussion results and conclusions. In a lot of cases, one single Powerangel conversation may not lead to the direct answer, but that doesn’t mean that it was useless. The conversation summary is a way to show the indicator of progress, be it the answer, or a list of new questions that appeared during the discussion. It is helpful for all members. For people who were the part of the discussion – it helps to stay focused and make the progressive movement forward. It is also helpful for people who missed the conversation – they can learn the opinions of their kindred spirits by reading the summary of discussing the questions from their Curiosity Profile and make their own conclusions, generate their own new questions. 
+
+
 ##Membership
 
 Feel like a Powerangel? 
 
-To participate in conversations with other Powerangels, discuss various topics you’re interested in, join nonstandard angel meetups and technical activities, we need you to tell us about yourself a little bit:
+To participate in conversations with other Powerangels, discuss various topics you’re interested in, join nonstandard angel conversations and technical activities, we need you to tell us about yourself a little bit:
 
 
 1.	What is your passion?
@@ -94,3 +126,4 @@ Our twitter account:		[twitter.com/@powerangels_o_O](https://twitter.com/@powera
 Our github organization:	[github.com/powerangels](https://github.com/powerangels)
 
 
+Copyright. All rights reserved.
