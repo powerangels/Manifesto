@@ -105,7 +105,7 @@ Powerangels is going to be the mightiest community in the world, concentrating t
 
 ##Contact info
 
-Our email:			[welcome.powerangels.gmail.com](mailto:welcome.powerangels.com)
+Our email:			[welcome.powerangels@gmail.com](mailto:welcome.powerangels@gmail.com)
 
 Our hashtags:		 	[#powerangels](https://twitter.com/search?f=tweets&q=powerangels) [#wakeuptechpower](https://twitter.com/search?f=tweets&q=wakeuptechpower)
 
